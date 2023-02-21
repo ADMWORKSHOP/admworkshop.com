@@ -19,6 +19,4 @@ If you have any ideas or wishes, write to me in the comments or by mail, I will 
 
 Thanks for watching my [YouTube](https://www.youtube.com/@admworkshop) channel.
 
-
-
-e-mail: contact@admworkshop.com
+[email](contact@admworkshop.com)
