@@ -20,3 +20,4 @@ If you have any ideas or wishes, write to me in the comments or by [email](mail:
 Thanks for watching my [YouTube](https://www.youtube.com/@admworkshop) channel.
 
 
+[email](mail:contact@admworkshop.com)
