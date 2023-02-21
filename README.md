@@ -18,6 +18,3 @@ You can learn the practice of the profession from my videos.
 If you have any ideas or wishes, write to me in the comments or by [email](mail:contact@admworkshop.com) I will be happy to answer your messages.
 
 Thanks for watching my [YouTube](https://www.youtube.com/@admworkshop) channel.
-
-
-[email](mail:contact@admworkshop.com)
