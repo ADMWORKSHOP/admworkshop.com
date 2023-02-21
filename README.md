@@ -1,5 +1,3 @@
-# ADM WORKSHOP
-
 My name is Pavel, nickname ADM.
 System Administrator with over 20 years of experience in small business security.
 
@@ -19,6 +17,4 @@ You can learn the practice of the profession from my videos.
 
 If you have any ideas or wishes, write to me in the comments or by mail, I will be happy to answer your messages.
 
-Thanks for watching my YouTube channel.
-
-[YouTube](https://www.youtube.com/@admworkshop)
+Thanks for watching my [YouTube](https://www.youtube.com/@admworkshop) channel.
