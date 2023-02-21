@@ -8,7 +8,7 @@ Competent in Linux server security and infrastructure risks.
 I have experience with VoIP IP-PBX Asterisk. Successfully passed the exam, received a Digium Certified Asterisk Administrator (dCAA)
 
 Completed several courses on the Udemy platform:
-- [x] CompTIA Network+ (N10-007)
+[x] CompTIA Network+ (N10-007)
 - [x] CompTIA CySA+ Cybersecurity Analyst (CS0-001)
 - [x] CompTIA Security+ (SY0-501)
 - [x] Enterprise Cyber Security Fundamental Concepts (Network security, information security, OS security, etc)
